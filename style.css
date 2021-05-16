@@ -1,0 +1,33 @@
+body{
+background-image
+}
+.name{
+  background-color: #1d3c3d;
+  background-position:bottom;
+  color: #3d898b;
+  font-family: Catamaran;
+  font-weight: 600;
+  font-size: 2em;
+  margin:-5%;
+  padding: 0%;
+  border-style: none;
+  text-align: center;
+}
+#image{
+  background-color: #ff00ff;
+  display: inline-block;
+  margin-top: 10em;
+  float: left;
+}
+#description{
+  background-color: rgb(8, 140, 192);
+  box-shadow: #ff00ff;
+  margin-top: 10em ;
+}
+h2{
+    color: #37979b;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.indice{
+  margin-top: 400px;
+}
