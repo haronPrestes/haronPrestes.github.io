@@ -1,33 +1,33 @@
-body{
-background-image
-}
+@import url("https://fonts.gstatic.com");
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@621&display=swap");
 .name{
-  background-color: #1d3c3d;
-  background-position:bottom;
-  color: #3d898b;
+  background-image: url(deitado.jpg);
+  color: #37979b;
   font-family: Catamaran;
-  font-weight: 600;
-  font-size: 2em;
-  margin:-5%;
-  padding: 0%;
-  border-style: none;
+  font-size: 1em;
+  padding: 10%;
   text-align: center;
+  display: block; margin: auto;
 }
 #image{
-  background-color: #ff00ff;
+
+  border: 1px solid black;
   display: inline-block;
-  margin-top: 10em;
   float: left;
+  align: center;
 }
 #description{
-  background-color: rgb(8, 140, 192);
-  box-shadow: #ff00ff;
-  margin-top: 10em ;
+  text-align: center;
+  border: 1px solid black;
+  
 }
 h2{
-    color: #37979b;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #37979b;
+  border: 1px solid black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .indice{
+  border: 1px solid black;
   margin-top: 400px;
+
 }
